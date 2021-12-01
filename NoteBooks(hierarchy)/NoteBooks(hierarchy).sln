@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteBooks(hierarchy)", "NoteBooks(hierarchy)\NoteBooks(hierarchy).csproj", "{0AC87EC6-FEC0-4E57-8FF2-9259E5C68D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC87EC6-FEC0-4E57-8FF2-9259E5C68D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC87EC6-FEC0-4E57-8FF2-9259E5C68D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC87EC6-FEC0-4E57-8FF2-9259E5C68D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC87EC6-FEC0-4E57-8FF2-9259E5C68D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00462031-AFA0-4371-8CE3-508CFEFCBA69}
+	EndGlobalSection
+EndGlobal
