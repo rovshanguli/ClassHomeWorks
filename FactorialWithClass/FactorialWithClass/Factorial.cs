@@ -6,7 +6,11 @@ namespace FactorialWithClass
 {
     class Factorial
     {
-        public Factorial(int n)
+        public Factorial()
+        {
+            Console.WriteLine("Faktorialin Hesablanmasi");
+        }
+        public Factorial(int n):this()
         {
             int fuc = 1;
             for(int i= 1; i < n; i++)
