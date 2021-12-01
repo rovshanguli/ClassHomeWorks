@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CheckLogin\CheckLogin\obj\Debug\netcoreapp3.1\CheckLogin.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CheckLogin\CheckLogin\obj\Debug\netcoreapp3.1\CheckLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CheckLogin\CheckLogin\obj\Debug\netcoreapp3.1\CheckLogin.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CheckLogin\CheckLogin\obj\Debug\netcoreapp3.1\CheckLogin.AssemblyInfo.cs
+C:\Users\user\source\repos\CheckLogin\CheckLogin\obj\Debug\netcoreapp3.1\CheckLogin.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CheckLogin\CheckLogin\bin\Debug\netcoreapp3.1\CheckLogin.exe
+C:\Users\user\source\repos\CheckLogin\CheckLogin\bin\Debug\netcoreapp3.1\CheckLogin.deps.json
+C:\Users\user\source\repos\CheckLogin\CheckLogin\bin\Debug\netcoreapp3.1\CheckLogin.runtimeconfig.json
+C:\Users\user\source\repos\CheckLogin\CheckLogin\bin\Debug\netcoreapp3.1\CheckLogin.runtimeconfig.dev.json
+C:\Users\user\source\repos\CheckLogin\CheckLogin\bin\Debug\netcoreapp3.1\CheckLogin.dll
+C:\Users\user\source\repos\CheckLogin\CheckLogin\bin\Debug\netcoreapp3.1\CheckLogin.pdb
+C:\Users\user\source\repos\CheckLogin\CheckLogin\obj\Debug\netcoreapp3.1\CheckLogin.dll
+C:\Users\user\source\repos\CheckLogin\CheckLogin\obj\Debug\netcoreapp3.1\CheckLogin.pdb
+C:\Users\user\source\repos\CheckLogin\CheckLogin\obj\Debug\netcoreapp3.1\CheckLogin.genruntimeconfig.cache
