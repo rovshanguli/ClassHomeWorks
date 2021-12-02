@@ -12,3 +12,17 @@ C:\Users\user\Desktop\HomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\obj\De
 C:\Users\user\Desktop\HomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\obj\Debug\netcoreapp3.1\NoteBooks(hierarchy).dll
 C:\Users\user\Desktop\HomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\obj\Debug\netcoreapp3.1\NoteBooks(hierarchy).pdb
 C:\Users\user\Desktop\HomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\obj\Debug\netcoreapp3.1\NoteBooks(hierarchy).genruntimeconfig.cache
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\obj\Debug\netcoreapp3.1\NoteBooks(hierarchy).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\obj\Debug\netcoreapp3.1\NoteBooks(hierarchy).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\obj\Debug\netcoreapp3.1\NoteBooks(hierarchy).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\obj\Debug\netcoreapp3.1\NoteBooks(hierarchy).AssemblyInfo.cs
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\obj\Debug\netcoreapp3.1\NoteBooks(hierarchy).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\obj\Debug\netcoreapp3.1\NoteBooks(hierarchy).dll
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\obj\Debug\netcoreapp3.1\NoteBooks(hierarchy).pdb
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\bin\Debug\netcoreapp3.1\NoteBooks(hierarchy).exe
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\bin\Debug\netcoreapp3.1\NoteBooks(hierarchy).deps.json
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\bin\Debug\netcoreapp3.1\NoteBooks(hierarchy).runtimeconfig.json
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\bin\Debug\netcoreapp3.1\NoteBooks(hierarchy).runtimeconfig.dev.json
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\bin\Debug\netcoreapp3.1\NoteBooks(hierarchy).dll
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\bin\Debug\netcoreapp3.1\NoteBooks(hierarchy).pdb
+C:\Users\user\Desktop\HomeWorks\ClassHomeWorks\NoteBooks(hierarchy)\NoteBooks(hierarchy)\obj\Debug\netcoreapp3.1\NoteBooks(hierarchy).genruntimeconfig.cache
